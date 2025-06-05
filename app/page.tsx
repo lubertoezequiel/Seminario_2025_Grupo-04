@@ -7,6 +7,9 @@ import { Eye, Shield, Search, Zap, Play, ExternalLink, BookOpen, Download, Users
 import Link from "next/link"
 import Image from "next/image"
 
+
+
+
 export default function Component() {
   const juegos = [
     {
